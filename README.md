@@ -27,3 +27,5 @@ JobMatchAI/
 ├── client/              # React frontend
 ├── server/              # Node.js backend
 ├── ai-engine/           # Python NLP engine
+```
+Stay tuned for updates! ⭐
