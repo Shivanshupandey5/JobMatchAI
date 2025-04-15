@@ -1,19 +1,38 @@
 # 💼 JobMatchAI – Smart Resume Matcher with AI
 
-**JobMatchAI** is an intelligent platform that matches candidate resumes with job descriptions using NLP and semantic analysis. It aims to simplify job discovery for applicants and improve relevance for recruiters.
+**JobMatchAI** is an AI-powered job aggregator platform that intelligently matches candidate resumes with job descriptions using NLP techniques. Built with a full-stack architecture and powered by semantic similarity analysis, JobMatchAI is designed to simplify job discovery and improve recruiter relevance.
+
+---
 
 ## 🚀 Features
 
-- 📄 Upload or paste resume and job description
-- 🧠 AI Engine powered by NLP & semantic similarity
-- 📊 Get a match score + human-readable summary
-- 🌐 Built with full-stack: React + Node + Python
+- 📄 Upload or paste resumes and job descriptions
+- 🧠 NLP-powered match scoring (spaCy / transformers)
+- 📊 Confidence summary with result explanation
+- 🔖 Bookmark job listings for later
+- 🌐 Clean UI powered by React
+
+---
 
 ## 🛠 Tech Stack
 
 | Frontend     | Backend        | AI Engine       | Database |
 |--------------|----------------|------------------|----------|
-| React.js     | Node.js, Express | Python, spaCy, transformers | MongoDB |
+| React.js     | Node.js + Express | Python (spaCy, transformers) | MongoDB |
+
+---
+
+## 📁 Project Structure
+
+JobMatchAI/ 
+├── client/ # Frontend (React) 
+├── server/ # Backend API (Express) 
+├── ai-engine/ # AI Matching Engine (Python) 
+├── README.md 
+├── .gitignore
+
+
+---
 
 ## 🧠 Architecture
 
@@ -23,6 +42,7 @@ graph TD;
   UI --> API[Backend - Node.js];
   API --> Engine[AI Engine - Python];
   API --> DB[(MongoDB)];
+
 ```
 
 # 📦 Installation
@@ -59,25 +79,35 @@ Output: {
 }
 
 
-# 📌 Future Scope
+# 🔮 Future Scope
+🔍 Resume PDF parsing with OCR
 
-🔍 Resume parsing from PDF
-🎯 Improved vector-based matching
-📑 Support for LinkedIn job scraping
-📈 Analytics dashboard
+📑 LinkedIn Job scraping
+
+🎯 Vector-based semantic search (using OpenAI or Cohere)
+
+📊 Dashboard for visual analytics
 
 
-# 📁 Folder Structure
-
-JobMatchAI/
-├── client/         # React frontend
-├── server/         # Node backend API
-├── ai-engine/      # Python AI scripts
-├── README.md
 
 # 👨‍💻 Developed by
 
-Shivanshu Pandey
-💼 Full Stack + AI Dev
+**Shivanshu Pandey**
+B.Tech CSE | AI Enthusiast | Full-Stack Developer
 🔗 LinkedIn
-🧠 Currently building this for IIT/Google outreach + learning
+🛠 GitHub: @shivanshupandey5
+
+
+---
+
+### ✅ 2. `.gitignore` File (Ensure It Includes):
+
+```txt
+node_modules/
+.env
+.DS_Store
+*.log
+*.pyc
+__pycache__/
+venv/
+
