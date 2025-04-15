@@ -25,7 +25,7 @@ graph TD;
   API --> DB[(MongoDB)];
 ```
 
-📦 Installation
+# 📦 Installation
  # 1. Clone the repo
 git clone https://github.com/Shivanshupandey5/JobMatchAI
 
@@ -47,7 +47,7 @@ pip install -r requirements.txt
 python matcher_wrapper.py
 
 
-#🧪Example Input & Output
+# 🧪Example Input & Output
 
 Resume: "Developer with strong skills in React and Node.js."
 Job Description: "Looking for full-stack engineer with React and backend knowledge."
@@ -63,7 +63,7 @@ Output: {
 📑 Support for LinkedIn job scraping
 📈 Analytics dashboard
 
-# 📁 #Folder Structure
+# 📁 Folder Structure
 
 JobMatchAI/
 ├── client/         # React frontend
@@ -71,7 +71,7 @@ JobMatchAI/
 ├── ai-engine/      # Python AI scripts
 ├── README.md
 
-# 👨‍💻 #Developed by
+# 👨‍💻 Developed by
 
 Shivanshu Pandey
 💼 Full Stack + AI Dev
