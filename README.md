@@ -47,7 +47,8 @@ pip install -r requirements.txt
 python matcher_wrapper.py
 
 
-🧪 #Example Input & Output
+#🧪Example Input & Output
+
 Resume: "Developer with strong skills in React and Node.js."
 Job Description: "Looking for full-stack engineer with React and backend knowledge."
 Output: {
@@ -55,27 +56,24 @@ Output: {
   "summary": "Resume matches the job description with 55.17% confidence."
 }
 
-📌 #Future Scope
+# 📌 Future Scope
+
 🔍 Resume parsing from PDF
-
 🎯 Improved vector-based matching
-
 📑 Support for LinkedIn job scraping
-
 📈 Analytics dashboard
 
-📁 #Folder Structure
+# 📁 #Folder Structure
+
 JobMatchAI/
 ├── client/         # React frontend
 ├── server/         # Node backend API
 ├── ai-engine/      # Python AI scripts
 ├── README.md
 
-👨‍💻 #Developed by
+# 👨‍💻 #Developed by
+
 Shivanshu Pandey
-
 💼 Full Stack + AI Dev
-
 🔗 LinkedIn
-
 🧠 Currently building this for IIT/Google outreach + learning
