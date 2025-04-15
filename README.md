@@ -26,6 +26,7 @@ graph TD;
 ```
 
 # 📦 Installation
+
  # 1. Clone the repo
 git clone https://github.com/Shivanshupandey5/JobMatchAI
 
@@ -47,6 +48,7 @@ pip install -r requirements.txt
 python matcher_wrapper.py
 
 
+
 # 🧪Example Input & Output
 
 Resume: "Developer with strong skills in React and Node.js."
@@ -56,12 +58,14 @@ Output: {
   "summary": "Resume matches the job description with 55.17% confidence."
 }
 
+
 # 📌 Future Scope
 
 🔍 Resume parsing from PDF
 🎯 Improved vector-based matching
 📑 Support for LinkedIn job scraping
 📈 Analytics dashboard
+
 
 # 📁 Folder Structure
 
