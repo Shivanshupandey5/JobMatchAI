@@ -50,7 +50,7 @@ function Home() {
 
       {result && (
         <div className="mt-4 bg-white p-4 rounded shadow">
-            <p className="text-lg font-semibold">Score: {result.match_score?.toFixed(2)*100}%</p>
+            <p className="text-lg font-semibold">Score: {result.match_score?.toFixed(2)}%</p>
             <p className="text-gray-700 mt-1">{result.summary}</p>
         </div>
     )}

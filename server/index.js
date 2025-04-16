@@ -18,7 +18,7 @@ const PORT = process.env.PORT || 5000;
 app.use(cors());
 app.use(bodyParser.json());
 
-// Mount the match routes at root (e.g., /api/match, /api/matches)
+// Mount the match routes at root
 app.use("/", matchRoutes);
 
 // Start the server
