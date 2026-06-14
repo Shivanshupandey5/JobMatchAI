@@ -1,0 +1,17 @@
+{
+  "sbert": {
+    "precision": 0.663,
+    "recall": 0.6702,
+    "f1": 0.6449
+  },
+  "spacy": {
+    "precision": 0.6444,
+    "recall": 0.6084,
+    "f1": 0.5709
+  },
+  "keyword": {
+    "precision": 0.6212,
+    "recall": 0.6538,
+    "f1": 0.5969
+  }
+}

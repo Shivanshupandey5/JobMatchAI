@@ -1,0 +1,51 @@
+resume_id,jd_id,job_category,resume_text,jd_text,human_label
+R01,J01,Software Developer,"Python developer with 2 years experience in Django REST APIs MongoDB and Git","Looking for backend developer with Python Django REST API and database experience",2
+R02,J02,Software Developer,"Java developer experienced in Spring Boot microservices and MySQL","Seeking Java engineer with Spring Boot REST services and SQL database knowledge",2
+R03,J03,Software Developer,"Frontend developer skilled in React JavaScript CSS and responsive design","Need React developer with JavaScript HTML CSS and UI development experience",2
+R04,J04,Software Developer,"C++ programmer with experience in data structures algorithms and competitive programming","Looking for software engineer with Python Django cloud deployment and React skills",0
+R05,J05,Software Developer,"Full stack developer with Node.js Express React MongoDB and REST API experience","Hiring full stack engineer with Node.js React MongoDB and API development skills",2
+R06,J06,Software Developer,"Python developer with basic Flask knowledge and some MySQL experience","Looking for senior backend developer with Python Django microservices Kubernetes and AWS",1
+R07,J07,Software Developer,"Android developer with Java Kotlin and Firebase experience","Seeking iOS developer with Swift Xcode and Apple developer ecosystem experience",0
+R08,J08,Software Developer,"Developer with HTML CSS JavaScript and basic React knowledge","Need full stack developer with React Node.js MongoDB Docker and CI/CD experience",1
+R09,J09,Software Developer,"Software engineer with Python Git Linux and REST API development experience","Looking for Python developer with Django Flask REST APIs PostgreSQL and Docker",2
+R10,J10,Software Developer,"Ruby on Rails developer with PostgreSQL Redis and Sidekiq experience","Seeking Python Django developer with PostgreSQL REST APIs and Redis caching experience",1
+R11,J11,Data Analyst,"Data analyst with Python pandas numpy matplotlib and Excel skills","Looking for data analyst with Python pandas data visualization and SQL experience",2
+R12,J12,Data Analyst,"SQL expert with MySQL PostgreSQL Tableau and data reporting experience","Hiring data analyst with SQL Tableau Power BI and business intelligence skills",2
+R13,J13,Data Analyst,"Business analyst with Excel PowerPoint stakeholder management and requirement gathering","Need data analyst with Python SQL statistical analysis and dashboard creation skills",1
+R14,J14,Data Analyst,"Python data analyst with pandas scikit-learn matplotlib seaborn and Jupyter notebook","Seeking data analyst with Python SQL pandas data cleaning and visualization skills",2
+R15,J15,Data Analyst,"Marketing professional with Google Analytics campaign tracking and Excel reporting","Looking for data analyst with SQL Python Tableau data pipeline and reporting skills",0
+R16,J16,Data Analyst,"Data analyst with R programming ggplot2 dplyr and statistical modeling experience","Hiring analyst with Python SQL pandas statistical analysis and visualization skills",1
+R17,J17,Data Analyst,"Fresher with Python basics and one data analysis project using pandas","Need experienced data analyst with 3 years SQL Python Tableau and stakeholder reporting",1
+R18,J18,Data Analyst,"Data analyst with SQL Python Tableau Power BI and ETL pipeline experience","Looking for senior data analyst with SQL Python business intelligence and ETL skills",2
+R19,J19,Data Analyst,"Accountant with tally Excel and financial reporting experience","Seeking data analyst with Python SQL machine learning and predictive modeling skills",0
+R20,J20,Data Analyst,"Python developer with pandas numpy data cleaning and EDA project experience","Hiring data analyst with Python pandas SQL visualization and reporting skills",2
+R21,J21,DevOps,"DevOps engineer with Docker Kubernetes Jenkins CI/CD and AWS experience","Looking for DevOps engineer with Docker Kubernetes CI/CD pipeline and cloud experience",2
+R22,J22,DevOps,"Linux system admin with bash scripting networking and server management","Seeking DevOps engineer with Docker Kubernetes Terraform AWS and CI/CD experience",1
+R23,J23,DevOps,"AWS cloud engineer with EC2 S3 Lambda RDS and CloudFormation experience","Need DevOps engineer with AWS Docker Jenkins Kubernetes and infrastructure automation",2
+R24,J24,DevOps,"Software developer with Python Git and some basic Docker knowledge","Looking for senior DevOps engineer with Kubernetes Terraform Ansible and cloud architecture",0
+R25,J25,DevOps,"DevOps engineer with Jenkins GitLab CI Docker Ansible and Linux administration","Hiring DevOps engineer with CI/CD Jenkins Docker Linux and infrastructure automation",2
+R26,J26,DevOps,"Network engineer with Cisco routing switching firewall and VPN configuration","Seeking DevOps engineer with AWS Kubernetes Terraform Docker and automation scripting",0
+R27,J27,DevOps,"Cloud engineer with Azure DevOps pipelines ARM templates and monitoring","Need DevOps engineer with cloud CI/CD infrastructure as code and container orchestration",2
+R28,J28,DevOps,"Developer with GitHub Actions basic Docker and Linux command line experience","Looking for DevOps engineer with Kubernetes Terraform AWS multi-cloud and SRE experience",1
+R29,J29,DevOps,"DevOps engineer with Docker Jenkins Kubernetes Prometheus Grafana and Terraform","Hiring site reliability engineer with Docker Kubernetes monitoring CI/CD and cloud skills",2
+R30,J30,DevOps,"IT support engineer with Windows server Active Directory and basic Linux","Seeking DevOps engineer with Docker Kubernetes CI/CD AWS and scripting automation",0
+R31,J31,ML Engineer,"Machine learning engineer with Python scikit-learn TensorFlow pandas and model deployment","Looking for ML engineer with Python TensorFlow scikit-learn model training and deployment",2
+R32,J32,ML Engineer,"Data scientist with Python R statistics machine learning and Jupyter notebooks","Seeking ML engineer with deep learning PyTorch CNN NLP and production model deployment",1
+R33,J33,ML Engineer,"ML engineer with PyTorch NLP transformers BERT and model fine-tuning experience","Need ML engineer with PyTorch NLP transformers and deep learning model deployment",2
+R34,J34,ML Engineer,"Python developer with basic pandas and one ML project using linear regression","Looking for senior ML engineer with deep learning distributed training and MLOps experience",0
+R35,J35,ML Engineer,"Computer vision engineer with OpenCV YOLO TensorFlow and image classification","Hiring ML engineer with computer vision TensorFlow object detection and model optimization",2
+R36,J36,ML Engineer,"NLP researcher with BERT GPT transformers text classification and named entity recognition","Seeking ML engineer with NLP deep learning transformers and production API deployment",2
+R37,J37,ML Engineer,"Software engineer with Python Git REST APIs but no machine learning experience","Need ML engineer with TensorFlow PyTorch deep learning feature engineering and MLOps",0
+R38,J38,ML Engineer,"ML engineer with scikit-learn XGBoost feature engineering and model evaluation","Looking for ML engineer with Python scikit-learn model training evaluation and deployment",2
+R39,J39,ML Engineer,"Data analyst with Python pandas matplotlib and basic scikit-learn knowledge","Hiring ML engineer with deep learning PyTorch GPU training and production deployment",1
+R40,J40,ML Engineer,"ML engineer with TensorFlow Keras CNN LSTM and time series forecasting experience","Seeking ML engineer with Python TensorFlow deep learning and time series modeling",2
+R41,J41,Frontend Developer,"React developer with JavaScript TypeScript Redux CSS and responsive design experience","Looking for frontend developer with React TypeScript Redux and modern CSS skills",2
+R42,J42,Frontend Developer,"Backend developer with Node.js Express MongoDB and REST APIs","Hiring frontend developer with React JavaScript HTML CSS and UI/UX implementation",0
+R43,J43,Frontend Developer,"Frontend developer with Vue.js JavaScript CSS HTML and REST API integration","Need frontend developer with React or Vue JavaScript CSS and API consumption skills",2
+R44,J44,Frontend Developer,"React developer with basic JavaScript and HTML CSS from online course","Looking for senior React developer with TypeScript Redux performance optimization and testing",1
+R45,J45,Frontend Developer,"UI developer with React JavaScript Tailwind CSS Figma and accessibility experience","Seeking frontend engineer with React JavaScript CSS design systems and responsive UI",2
+R46,J46,Frontend Developer,"Angular developer with TypeScript RxJS NgRx and enterprise application experience","Need frontend developer with React JavaScript component architecture and state management",1
+R47,J47,Frontend Developer,"Graphic designer with Figma Photoshop and basic HTML CSS knowledge","Hiring frontend developer with React TypeScript JavaScript REST APIs and unit testing",0
+R48,J48,Frontend Developer,"Frontend developer with React Next.js JavaScript REST APIs and performance optimization","Looking for frontend developer with React Next.js SEO performance and API integration",2
+R49,J49,Frontend Developer,"Full stack developer with React Node.js MongoDB and deployment experience","Seeking frontend developer with React JavaScript CSS and cross-browser compatibility",2
+R50,J50,Frontend Developer,"React developer with JavaScript Redux REST API and basic testing with Jest","Hiring frontend developer with React TypeScript testing CI/CD and accessibility skills",1
